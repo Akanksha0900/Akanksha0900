@@ -1,5 +1,7 @@
-![MasterHead](https://cdn.dribbble.com/users/1081898/screenshots/6061328/04.gif)
-<h1 align="center">Hi 👋, I am Akanksha Pandey</h1>
+![MasterHead](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I+am+Akanksha+Pandey" alt="Typing SVG" /></a>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif">
 
@@ -8,15 +10,15 @@
 
 - 🔭 I’m currently working on [Scarab](https://github.com/Akanksha0900/Scarab)
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning *Android*
 
-- 🤝 I’m looking for help with **Backend**
+- 🤝 I’m looking for help with *Backend*
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akanksha0900](https://github.com/Akanksha0900)
 
-- 📫 How to reach me **akankshapandey0900@gmail.com**
+- 📫 How to reach me *akankshapandey0900@gmail.com*
 
-- ⚡ Fun fact **I can speak 5 different languages fluently**
+- ⚡ Fun fact *I can speak 5 different languages fluently*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,4 +48,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akanksha0900&show_icons=true&locale=en" alt="akanksha0900" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akanksha0900&" alt="akanksha0900" /></p>
-
