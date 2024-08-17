@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif)
+![MasterHead](https://cdn.dribbble.com/users/1081898/screenshots/6061328/04.gif)
 <h1 align="center">Hi 👋, I am Akanksha Pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif">
