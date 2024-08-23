@@ -18,7 +18,6 @@
 
 - 📫 How to reach me *akankshapandey0900@gmail.com*
 
-- ⚡ Fun fact *I can speak 5 different languages fluently*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
