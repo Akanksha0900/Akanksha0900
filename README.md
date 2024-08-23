@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I+am+Akanksha+Pandey" alt="Typing SVG" /></a>
 
